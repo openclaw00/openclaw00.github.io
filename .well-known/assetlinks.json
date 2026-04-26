@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.openclaw00.twa",
+    "sha256_cert_fingerprints": ["E2:CB:71:03:7C:F3:F4:AC:91:BB:B7:84:0D:45:8A:26:24:38:21:1A:C5:09:87:29:74:C3:DB:BD:27:35:81:B8"]
+  }
+}]
